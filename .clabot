@@ -1,5 +1,5 @@
 {
         "contributors": [
         ],
-        "message": "If you agree to the terms of the Contributor License Agreement, please add your username to the `"contributors"` list in the `.clabot` file."
+        "message": "If you agree to the terms of the Contributor License Agreement, please add your username to the `\"contributors\"` list in the `.clabot` file."
 }
